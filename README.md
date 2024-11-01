@@ -49,3 +49,4 @@ Untuk menjalankan analisis ini:
 ## Kesimpulan
 
 Analisis ini memberikan wawasan berharga tentang tren penjualan SaaS AWS dan perilaku pelanggan, memberikan dasar berbasis data untuk meningkatkan strategi pemasaran dan produk.
+Link PPT Prensentation: [di sini]([https://www.kaggle.com/datasets/nnthanh101/aws-saas-sales](https://www.canva.com/design/DAGVNsrS6XA/g16gxnxX6DJ2JZWqhe8HyQ/view?utm_content=DAGVNsrS6XA&utm_campaign=designshare&utm_medium=link&utm_source=editor))
